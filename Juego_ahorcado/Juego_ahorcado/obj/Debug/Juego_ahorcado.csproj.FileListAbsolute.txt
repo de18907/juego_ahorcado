@@ -1,0 +1,10 @@
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\bin\Debug\Juego_ahorcado.exe.config
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\bin\Debug\Juego_ahorcado.exe
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\bin\Debug\Juego_ahorcado.pdb
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.csprojAssemblyReference.cache
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.Form1.resources
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.Properties.Resources.resources
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.csproj.GenerateResource.cache
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.exe
+C:\Users\18297\Source\Repos\Juego_ahorcado\Juego_ahorcado\obj\Debug\Juego_ahorcado.pdb
